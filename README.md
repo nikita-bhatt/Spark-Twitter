@@ -1,3 +1,7 @@
 # Spark-Twitter
 
-Filter the large dataset of twitter using maven repository and spark
+A project using Apache Spark Streaming to collect and clean real-time tweets from twitter
+
+# Built using
+- Maven
+- Apache Spark
